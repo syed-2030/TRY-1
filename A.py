@@ -1,4 +1,4 @@
-print("hi")
+print("hi python")
 
 # Numbers, Variables, and Strings
 # This is meant as a reference to the concepts of Numbers, Variables, and Strings in Python.
